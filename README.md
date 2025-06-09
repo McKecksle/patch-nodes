@@ -1,2 +1,2 @@
 # patch-nodes
-Make Nodes pink for better farming
+Make nodes pink for better farming
